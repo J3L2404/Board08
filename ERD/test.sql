@@ -11,4 +11,6 @@ UPDATE t_emp SET sal = sal + 1;
 
 DELETE FROM test_write WHERE wr_uid > 10;
 
+select * from test_write;
+
 
